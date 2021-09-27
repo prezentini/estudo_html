@@ -1,2 +1,2 @@
 # Primeiro Projeto
- Primeiro repositório versionado
+ Primeiro repositório do curso de Git e Github
